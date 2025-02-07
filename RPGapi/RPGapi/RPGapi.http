@@ -1,0 +1,6 @@
+@RPGapi_HostAddress = http://localhost:5159
+
+GET {{RPGapi_HostAddress}}/rpgapi/
+Accept: application/json
+
+###
