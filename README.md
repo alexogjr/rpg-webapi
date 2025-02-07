@@ -9,7 +9,7 @@ A API possui vários endpoints, contando com:
 - GetId (Id carta única);
 - GetId (Id player único);
 - PostId (Id não gera automaticamente);
-- PutId (Id único);
+- PutId (Id único).
 
 Você pode listar todas as cartas/jogadores e setar cartas para jogadores. Quando houver tempo irei adicionar a funcionalidade de remover cartas da lista geral e de players.
 ## Stack utilizada
